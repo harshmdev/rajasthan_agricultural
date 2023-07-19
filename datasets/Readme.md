@@ -1,4 +1,5 @@
 #About Dataset
+
 The dataset provided focuses on agricultural data in the state of Rajasthan, India from 2018 to 2019. It consists of four CSV files: Crop_Production_Data.csv, Water_Usage_Data.csv, Soil_Analysis_Data.csv, and Crop_Price_Data.csv. These files offer valuable information for researchers and data scientists in the agricultural sector, enabling them to analyze and model various aspects of agricultural practices and market dynamics in Rajasthan.
 
 The Crop_Production_Data.csv file contains information on crop production, including district, crop type, season, area (hectares), yield (quintals), and production (tonnes). This data allows for the study of crop productivity, seasonal variations, and identification of production patterns across different districts.
