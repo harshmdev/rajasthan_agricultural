@@ -8,7 +8,7 @@ The dataset provided focuses on agricultural data in the state of Rajasthan, Ind
 
 **The Soil_Analysis_Data.csv** file contains soil quality information such as area, soil type, pH, percentage of organic matter, nitrogen content (kg/ha), phosphorus content (kg/ha), and potassium content (kg/ha). This data is valuable for studying soil properties, assessing soil fertility, and understanding nutrient content in different soil types in Rajasthan.
 
-**The Crop_Price_Data.csv** file includes data on crop prices in different markets (mandis) across counties. It includes information such as district, crop type, market, date, and price (INR/100 weight approx). This dataset can be used to study crop price trends, analyze market trends, and develop crop price forecasting models in Rajasthan.
+**The Crop_Price_Data.csv** file includes data on crop prices in different markets (mandis) across countries. It includes information such as district, crop type, market, date, and price (INR/100 weight approx). This dataset can be used to study crop price trends, analyze market trends, and develop crop price forecasting models in Rajasthan.
 
 ---
 Researchers and data scientists can utilize this dataset for various analyses and studies, including crop productivity analysis and forecasting, research on water management and irrigation optimization, soil fertility assessment and soil health analysis, market analysis and crop price forecasting, evaluation of agricultural policies and interventions, and assessment of the impact of climate change on agriculture in Rajasthan.
